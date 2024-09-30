@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.17](https://github.com/QuivrHQ/quivr/compare/core-0.0.16...core-0.0.17) (2024-09-30)
+
+
+### Features
+
+* **assistants:** mock api ([#3195](https://github.com/QuivrHQ/quivr/issues/3195)) ([282fa0e](https://github.com/QuivrHQ/quivr/commit/282fa0e3f83f7c6fc8c84ca95f8f4ced4ed34b78))
+* introducing configurable retrieval workflows ([#3227](https://github.com/QuivrHQ/quivr/issues/3227)) ([ef90e8e](https://github.com/QuivrHQ/quivr/commit/ef90e8e672ca23d104c7d5bde7496f0929adf5d2))
+
 ## [0.0.16](https://github.com/QuivrHQ/quivr/compare/core-0.0.15...core-0.0.16) (2024-09-17)
 
 
